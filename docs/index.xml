@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Everything Else</title>
+    <link>http://localhost:1313/</link>
+    <description>Welcome! Check out super awesome stuff: Writing Recipes Also check out what I am doing now, read my book notes, contact me, or see what this site is all about</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/</guid>
+      <description>19 Biggest Lessons From Reading 100 Books19 Biggest Lessons From Reading 100 Books&#xA;4 Ways to Quit caffeine4 Ways to Quit caffeine&#xA;7 Steps to Get Back on a NoFap Streak Immediately7 Steps to Get Back on a NoFap Streak Immediately&#xA;Caffeine is Destroying YouCaffeine is Destroying You&#xA;My Journey With AddictionMy Journey With Addiction&#xA;Nat Eliason&#39;s SEO courseNat Eliason&#39;s SEO course</description>
+    </item>
+    <item>
+      <title>Recipes</title>
+      <link>http://localhost:1313/recipes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/</guid>
+      <description>Creamy Jalepeno SauceCreamy Jalepeno Sauce&#xA;Easy Mango Salsa Quinoa BowlEasy Mango Salsa Quinoa Bowl&#xA;Marry Me TofuMarry Me Tofu&#xA;SeitanSeitan&#xA;Tempeh BaconTempeh Bacon&#xA;Tofu scrambleTofu scramble&#xA;Vegan raising canesVegan raising canes&#xA;Vegan Tofu QuesadillaVegan Tofu Quesadilla</description>
+    </item>
+  </channel>
+</rss>
