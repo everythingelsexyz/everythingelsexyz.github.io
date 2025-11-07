@@ -1,6 +1,6 @@
 +++
 title = 'Bliss of the Celibate (4/10)'
-description = 'Bliss of the Celibate'
+description = 'Test Description'
 featured_image = "../images/blissofthecelibate.png"
 +++
 

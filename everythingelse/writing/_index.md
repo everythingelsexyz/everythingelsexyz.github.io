@@ -4,7 +4,7 @@ title = "Writing"
 weight = 6
 archetype = "moc" 
 alwaysopen = false
-featured_image = "images/boot.png"
+featured_image = "images/writing.jpg"
 [_build]
   render = "always"
   list = "always"

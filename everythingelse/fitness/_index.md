@@ -4,7 +4,7 @@ title = "Fitness"
 weight = 2
 archetype = "moc" 
 alwaysopen = false
-featured_image = "images/boot.png"
+featured_image = "images/fitness.jpg"
 [_build]
   render = "always"
   list = "always"

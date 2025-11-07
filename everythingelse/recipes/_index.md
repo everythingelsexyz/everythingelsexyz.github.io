@@ -4,7 +4,7 @@ title = "Recipes"
 weight = 5
 archetype = "moc" 
 alwaysopen = false
-featured_image = "images/boot.png"
+featured_image = "images/recipes.png"
 [_build]
   render = "always"
   list = "always"

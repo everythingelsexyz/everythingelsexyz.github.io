@@ -4,14 +4,14 @@ title = "Book Notes"
 weight = 1
 archetype = "moc" 
 alwaysopen = false
-featured_image = "images/boot.png"
+featured_image = "images/booknotes.png"
 [_build]
   render = "always"
   list = "always"
   publishResources = true
 +++
 
-{{% children type="card" description="true" %}}
+{{% children type="card" description=true %}}
 
 
 These are the summaries and notes of books I have read. These notes are the result of wanting to further process books and retain information. After years of reading books one time and then forgetting most of them. 

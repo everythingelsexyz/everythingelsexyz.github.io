@@ -4,7 +4,7 @@ title = "Parenting"
 weight = 4
 archetype = "moc" 
 alwaysopen = false
-featured_image = "images/boot.png"
+featured_image = "images/parenting.jpg"
 [_build]
   render = "always"
   list = "always"

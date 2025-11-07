@@ -4,7 +4,7 @@ title = "Health"
 weight = 3
 archetype = "moc" 
 alwaysopen = false
-featured_image = "images/boot.png"
+featured_image = "images/health.png"
 [_build]
   render = "always"
   list = "always"
