@@ -1,6 +1,8 @@
----
-title: Million Dollar Weekend(8/10)
----
++++
+title = 'Million Dollar Weekend(8/10)'
+description = 'Million Dollar Weekend'
+featured_image = "../images/milliondollarweekend.png"
++++
 
 ![Million Dollar Weekend](https://m.media-amazon.com/images/I/711Oi-AKX1L._SL1500_.jpg?classes=inline&height=175px)
 

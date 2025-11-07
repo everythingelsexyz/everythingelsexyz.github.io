@@ -1,5 +1,6 @@
 ---
 title: Master Reading List
+draft: true
 ---
 ### In Progress
 - 1Q84

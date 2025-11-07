@@ -1,6 +1,8 @@
----
-title: The Blog Startup (8/10)
----
++++
+title = 'The Blog Startup (8/10)'
+description = 'The Blog Startup'
+featured_image = "../images/blogstartup.png"
++++
 
 ![The Blog Startup](https://m.media-amazon.com/images/I/61Lm6P0rPsL._SL1360_.jpg?classes=inline&height=175px)
 

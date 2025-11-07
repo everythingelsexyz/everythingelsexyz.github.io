@@ -1,7 +1,8 @@
----
-title: Good Inside (9/10)
-draft: false
----
++++
+title = 'Good Inside (9/10)'
+description = 'Good Inside'
+featured_image = "../images/goodinside.png"
++++
 
 ![Good Inside](https://m.media-amazon.com/images/I/71hzYnnWXBL._SL1500_.jpg?classes=inline&height=175px)
 

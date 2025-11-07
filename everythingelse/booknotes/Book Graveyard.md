@@ -1,5 +1,6 @@
 ---
 title: Book Graveyard
+draft: true
 ---
 
 I started keeping a list of all of the books I did not finish. These aren't necessarily bad books. A lot of them I've read 3/4 of the way through and just never finished because other priorities got in the way. Some of them I probably won't pick up again. And some were just plain awful. 

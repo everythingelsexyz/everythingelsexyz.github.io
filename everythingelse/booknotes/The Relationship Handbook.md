@@ -1,8 +1,8 @@
----
-title: The Relationship Handbook (10/10)
----
-
----
++++
+title = 'The Relationship Handbook (10/10)'
+description = 'The Relationship Handbook'
+featured_image = "../images/relationshiphandbook.png"
++++
 
 ## Summary and Highlights
 

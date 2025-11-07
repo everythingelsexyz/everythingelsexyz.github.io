@@ -4,7 +4,6 @@
 -  [[everythingelse/booknotes/Anything You Want|Anything You Want]]
 -  [[everythingelse/booknotes/Bliss of the Celibate|Bliss of the Celibate]]
 -  [[everythingelse/booknotes/Book Graveyard|Book Graveyard]]
--  [[everythingelse/booknotes/Booknotes|Booknotes]]
 -  [[everythingelse/booknotes/Built to Move|Built to Move]]
 -  [[everythingelse/booknotes/Caffeine Blues|Caffeine Blues]]
 -  [[everythingelse/booknotes/Dopamine Nation|Dopamine Nation]]

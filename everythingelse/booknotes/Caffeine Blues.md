@@ -1,7 +1,9 @@
----
-title: Caffeine Blues (9/10)
-draft: false
----
++++
+title = 'Caffeine Blues (9/10)'
+description = 'Caffeine Blues (9/10)'
+featured_image = "../images/caffeineblues.png"
++++
+
 ![Caffeine Blues](https://m.media-amazon.com/images/I/81esD9K1FcL._SL1500_.jpg?classes=inline&height=175px)
 
 Everyone should read this book. Caffeine does more than just block adenosine receptors so you don't feel tired. Caffeine = Stress. Would have given it a 10/10 but there is some stuff about supplements that I do not agree with. I tried all of the supplements and they had their own side effects. I am also not able to look at the studies listed so a more modern approach with links would be nice. I have read this 4 times.

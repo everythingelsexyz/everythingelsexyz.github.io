@@ -1,6 +1,8 @@
----
-title: The Willpower Instinct (9/10)
----
++++
+title = 'The Willpower Instinct (9/10)'
+description = 'The Willpower Instinct'
+featured_image = "../images/willpowerinstinct.png"
++++
 
 ![Meditations](https://m.media-amazon.com/images/I/71tvkO9Db4L._SL1500_.jpg?classes=inline&height=175px)
 

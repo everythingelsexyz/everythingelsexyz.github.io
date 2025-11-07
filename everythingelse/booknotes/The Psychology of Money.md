@@ -1,6 +1,8 @@
----
-title: The Psychology of Money (9/10)
----
++++
+title = 'The Psychology of Money (9/10)'
+description = 'The Psychology of Money'
+featured_image = "../images/psychologyofmoney.png"
++++
 
 ![The Psychology of Money](https://m.media-amazon.com/images/I/71aG0m9XRcL._SL1500_.jpg?classes=inline&height=175px)
 

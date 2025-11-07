@@ -1,6 +1,9 @@
----
-title: Nonviolent Communication (8/10)
----
++++
+title = 'Nonviolent Communication (8/10)'
+description = 'Nonviolent Communication'
+featured_image = "../images/nonviolentcommunication.png"
++++
+
 ![Nonviolent Communication](https://m.media-amazon.com/images/I/6188ojOs2tS._SL1000_.jpg?classes=inline&height=175px)
 
 Easy concepts to grasp, challenging to apply to the real world. This is how we communicate with other people. I have been trying some of the methods and mindset while I was reading this book. Sometimes the strategies of using empathy and getting to know the needs behind words and behaviors have helped resolve tensions but other times it falls flat on it's face due to me being very mechanistic about the whole thing. This is going to need a re-read at some point. 

@@ -1,6 +1,8 @@
----
-title: The 12 Week Year (8/10)
----
++++
+title = 'The 12 Week Year (8/10)'
+description = 'The 12 Week Year'
+featured_image = "../images/12weekyear.png"
++++
 
 ![The 12 Week Year](https://m.media-amazon.com/images/I/71ZMsYuwELL._SL1500_.jpg?classes=inline&height=175px) 
 
