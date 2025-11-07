@@ -1,7 +1,7 @@
 +++
 title = '123 Magic (4/10)'
 description = '123 Magic Book Summary'
-featured_image "https://m.media-amazon.com/images/I/61vWhousV5L._SL1500_.jpg"
+featured_image = "images/123magic.png"
 +++
 
 

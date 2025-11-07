@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/parenting/bubble-recipe/</link>
+    <link>http://everythingelsexyz.github.io/parenting/bubble-recipe/</link>
     <description>1 part mix to 8 parts distilled water&#xA;Ingredients Manual pot and pan dawn JLube Baking powder&#xA;2 cups tap water 2 cups dawn 7 grams baking powder&#xA;Mix in 4 grams J Lube - mix well so it doesn’t clump up&#xA;Can use a fork or even better a drill paint mixer&#xA;Let mix sit over night and shake it occasionally It’s okay if you end up with white powder on the bottom</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/parenting/bubble-recipe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://everythingelsexyz.github.io/parenting/bubble-recipe/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

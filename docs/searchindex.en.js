@@ -57,8 +57,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
-    "content": "Welcome! Check out super awesome stuff: Book Notes Fitness Health Parenting Recipes Writing Also check out what I am doing now, read my book notes, contact me, or see what this site is all about",
-    "description": "Welcome! Check out super awesome stuff: Book Notes Fitness Health Parenting Recipes Writing Also check out what I am doing now, read my book notes, contact me, or see what this site is all about",
+    "content": "Contact me or see what this site is all about\nBook Notes\rFitness\rHealth\rParenting\rRecipes\rWriting",
+    "description": "Contact me or see what this site is all about\nBook Notes\rFitness\rHealth\rParenting\rRecipes\rWriting",
     "tags": [],
     "title": "Everything Else",
     "uri": "/"

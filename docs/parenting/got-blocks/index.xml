@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/parenting/got-blocks/</link>
+    <link>http://everythingelsexyz.github.io/parenting/got-blocks/</link>
     <description>We be playing Minecraft&#xA;Got a lot of buildings&#xA;In and out of servers&#xA;Some would say we’re chilling&#xA;Who’s that on my server?&#xA;Jesse, yea I heard her&#xA;Rotten flesh not murder&#xA;Witherstorm’s not a flirter&#xA;I mine diamonds don’t drink from a tea cup&#xA;I find villages abandoned you and me bruh&#xA;I trade emeralds for piggy not named me yuh&#xA;A fine line but we still not callin peta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/parenting/got-blocks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://everythingelsexyz.github.io/parenting/got-blocks/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
