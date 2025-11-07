@@ -1,0 +1,1 @@
+Full body rings: https://www.youtube.com/watch?v=2nIXM6A8nxA

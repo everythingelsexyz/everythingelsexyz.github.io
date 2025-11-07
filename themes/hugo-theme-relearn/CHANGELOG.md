@@ -1,5 +1,69 @@
 # Changelog
 
+## 8.2.0 (2025-11-01)
+
+### Enhancements
+
+- [**feature**] button: add more styling [#1154](https://github.com/McShelby/hugo-theme-relearn/issues/1154)
+- [**feature**] boxstyle: support `style` parameter as default for user defined styles [#1149](https://github.com/McShelby/hugo-theme-relearn/issues/1149)
+- [**feature**] i18n: add Danish translation [#1148](https://github.com/McShelby/hugo-theme-relearn/issues/1148)
+- [**feature**] topbar: introduce CSS color variables [#863](https://github.com/McShelby/hugo-theme-relearn/issues/863)
+
+### Fixes
+
+- [**bug**] mermaid: don't ignore codefence zoom attribute [#1150](https://github.com/McShelby/hugo-theme-relearn/issues/1150)
+
+### Maintenance
+
+- [**task**] build: make it build from any directory [#1155](https://github.com/McShelby/hugo-theme-relearn/issues/1155)
+- [**task**] code: regenerate chroma styles [#1152](https://github.com/McShelby/hugo-theme-relearn/issues/1152)
+- [**task**] test: switch to hvm [#1151](https://github.com/McShelby/hugo-theme-relearn/issues/1151)
+
+---
+
+## 8.1.1 (2025-10-05)
+
+### Fixes
+
+- [**bug**] cards: restore compat with Hugo 0.126.3 [#1145](https://github.com/McShelby/hugo-theme-relearn/issues/1145)
+
+---
+
+## 8.1.0 (2025-10-05)
+
+### Enhancements
+
+- [**feature**] tabs: improve a11y [#1144](https://github.com/McShelby/hugo-theme-relearn/issues/1144)
+- [**feature**] cards: create new card shortcode [#1138](https://github.com/McShelby/hugo-theme-relearn/issues/1138)
+- [**feature**][**change**] children: new presentation with cards [#1124](https://github.com/McShelby/hugo-theme-relearn/issues/1124)
+
+### Fixes
+
+- [**bug**] history: fix checkmarks for `canonifyURLs=true` [#1142](https://github.com/McShelby/hugo-theme-relearn/issues/1142)
+- [**bug**] versioning: use consistent language in german translation [#1139](https://github.com/McShelby/hugo-theme-relearn/issues/1139)
+- [**bug**] version: translation text for "Version" is missing [#1133](https://github.com/McShelby/hugo-theme-relearn/issues/1133)
+- [**bug**] tabs: can't toggle tabs with similar names [#1132](https://github.com/McShelby/hugo-theme-relearn/issues/1132)
+
+### Maintenance
+
+- [**task**][**change**] linkeffects: make default `externalLinkTarget` behave like standard [#1143](https://github.com/McShelby/hugo-theme-relearn/issues/1143)
+- [**task**] alias: remove noindex [#1137](https://github.com/McShelby/hugo-theme-relearn/issues/1137)
+
+---
+
+## 8.0.1 (2025-09-11)
+
+### Fixes
+
+- [**bug**] search: improve readability of highlighted text [#1125](https://github.com/McShelby/hugo-theme-relearn/issues/1125)
+- [**bug**] search: fix searching of description with Orama engine [#1115](https://github.com/McShelby/hugo-theme-relearn/issues/1115)
+
+### Maintenance
+
+- [**task**] task: fix release automation [#1128](https://github.com/McShelby/hugo-theme-relearn/issues/1128)
+
+---
+
 ## 8.0.0 (2025-07-07)
 
 ### Enhancements

@@ -1,11 +1,13 @@
 :root {
   /* neon */
   --PRIMARY-color: rgba(243, 0, 178, 1); /* brand primary color */
-  --SECONDARY-color: rgb(50, 189, 243, 1); /* brand secondary color */
+  --PRIMARY-HOVER-color: rgba(255, 112, 217, 1); /* brand primary hover color */
+  --SECONDARY-color: rgba(50, 189, 243, 1); /* brand secondary color */
+  --SECONDARY-HOVER-color: rgba(80, 215, 255, 1); /* brand secondary hover color */
   --ACCENT-color: rgba(255, 215, 0, 1); /* brand accent color, used for search highlights */
+  --ACCENT-HOVER-color: rgba(255, 235, 120, 1); /* brand accent hover color */
 
   --MAIN-TEXT-color: rgba(224, 224, 224, 1); /* text color of content and titles */
-  --MAIN-LINK-HOVER-color: rgb(80, 215, 255, 1); /* hovered link color of content */
   --MAIN-BG-color: rgba(16, 16, 16, 1); /* background color of content */
 
   /* optional overwrites for specific headers */
@@ -91,7 +93,10 @@ body h1 * {
 }
 
 body h2,
-body h2 * {
+body h2 *,
+body .card-title,
+body .children-type-list .children-title-1,
+body .children-type-list .children-title-1 * {
   color: rgba(255, 255, 255, 1);
   text-shadow:
     0 0 1px rgba(255, 255, 255, 1),
@@ -104,7 +109,9 @@ body h2 * {
 
 body h3,
 body h3 *,
-body .article-subheading {
+body .article-subheading,
+body .children-type-list .children-title-2,
+body .children-type-list .children-title-2 * {
   color: rgba(255, 255, 255, 1);
   text-shadow:
     0 0 1px rgba(255, 255, 255, 1),
@@ -116,7 +123,9 @@ body .article-subheading {
 }
 
 body h4,
-body h4 * {
+body h4 *,
+body .children-type-list .children-title-3,
+body .children-type-list .children-title-3 * {
   color: rgba(255, 255, 255, 1);
   text-shadow:
     0 0 1px rgba(255, 255, 255, 1),
@@ -128,7 +137,9 @@ body h4 * {
 }
 
 body h5,
-body h5 * {
+body h5 *,
+body .children-type-list .children-title-4,
+body .children-type-list .children-title-4 * {
   color: rgba(255, 255, 255, 1);
   text-shadow:
     0 0 1px rgba(255, 255, 255, 1),
@@ -139,7 +150,9 @@ body h5 * {
 }
 
 body h6,
-body h6 * {
+body h6 *,
+body .children-type-list .children-title-5,
+body .children-type-list .children-title-5 * {
   color: rgba(255, 255, 255, 1);
   text-shadow:
     0 0 1px rgba(255, 255, 255, 1),
@@ -155,6 +168,7 @@ body h3 a,
 body h4 a,
 body h5 a,
 body h6 a,
+body .children-type-list .children-title a,
 body [id] > button.anchor i {
   color: rgba(255, 255, 255, 1);
   text-shadow:
@@ -231,7 +245,7 @@ body #R-homelinks li.active > :is(a, span) {
 }
 
 body .badge,
-body .btn,
+body .btn:not(.noborder),
 body .box:not(.cstyle.transparent) {
   box-shadow:
     0 0 1px rgba(255, 255, 255, 1),
@@ -241,8 +255,8 @@ body .box:not(.cstyle.transparent) {
 }
 
 body .badge > .badge-content,
-body .btn,
-body .btn > *,
+body .btn.cstyle:not(.link):not(.action),
+body .btn.cstyle:not(.link):not(.action) > *,
 body .box:not(.cstyle.transparent) > .box-label {
   text-shadow:
     0 0 1px rgba(255, 255, 255, 1),
@@ -253,7 +267,7 @@ body .box:not(.cstyle.transparent) > .box-label {
 
 body .tab-panel-cstyle:not(.transparent),
 body .badge.cstyle:not(.transparent),
-body .btn.cstyle {
+body .btn.cstyle:not(.link):not(.action) {
   --VARIABLE-BOX-TEXT-color: var(--VARIABLE-BOX-CAPTION-color);
 }
 

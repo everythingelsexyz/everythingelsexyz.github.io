@@ -1,136 +1,149 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/writing/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/booknotes/dopamine-nation/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/recipes/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/dopamine-nation/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://everythingelsexyz.github.io/fitness/</loc>
+  </url>
+  <url>
+    <loc>http://everythingelsexyz.github.io/health/</loc>
+  </url>
+  <url>
+    <loc>http://everythingelsexyz.github.io/parenting/</loc>
+  </url>
+  <url>
+    <loc>http://everythingelsexyz.github.io/recipes/</loc>
+  </url>
+  <url>
+    <loc>http://everythingelsexyz.github.io/writing/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/bliss-of-the-celibate/</loc>
+    <loc>http://everythingelsexyz.github.io/</loc>
+    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://everythingelsexyz.github.io/booknotes/bliss-of-the-celibate/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/123-magic/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/123-magic/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/writing/19-biggest-lessons-from-reading-100-books/</loc>
+    <loc>http://everythingelsexyz.github.io/writing/19-biggest-lessons-from-reading-100-books/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/writing/4-ways-to-quit-caffeine/</loc>
+    <loc>http://everythingelsexyz.github.io/writing/4-ways-to-quit-caffeine/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/writing/7-steps-to-get-back-on-a-nofap-streak-immediately/</loc>
+    <loc>http://everythingelsexyz.github.io/writing/7-steps-to-get-back-on-a-nofap-streak-immediately/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/about/</loc>
+    <loc>http://everythingelsexyz.github.io/categories/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/anything-you-want/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/anything-you-want/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/book-graveyard/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/book-graveyard/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/built-to-move/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/built-to-move/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/caffeine-blues/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/caffeine-blues/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/writing/caffeine-is-destroying-you/</loc>
+    <loc>http://everythingelsexyz.github.io/writing/caffeine-is-destroying-you/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://everythingelsexyz.github.io/categories/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/recipes/creamy-jalepeno-sauce/</loc>
+    <loc>http://everythingelsexyz.github.io/recipes/creamy-jalepeno-sauce/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/recipes/easy-mango-salsa-quinoa-bowl/</loc>
+    <loc>http://everythingelsexyz.github.io/recipes/easy-mango-salsa-quinoa-bowl/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/good-inside/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/good-inside/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/health/</loc>
+    <loc>http://everythingelsexyz.github.io/categories/health/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/recipes/marry_me_tofu/</loc>
+    <loc>http://everythingelsexyz.github.io/recipes/marry_me_tofu/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/master-reading-list/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/master-reading-list/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/meditations/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/meditations/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/million-dollar-weekend/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/million-dollar-weekend/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/writing/my-journey-with-addiction/</loc>
+    <loc>http://everythingelsexyz.github.io/writing/my-journey-with-addiction/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/writing/nat-eliasons-seo-course/</loc>
+    <loc>http://everythingelsexyz.github.io/writing/nat-eliasons-seo-course/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/nonviolent-communication/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/nonviolent-communication/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/recipes/</loc>
+    <loc>http://everythingelsexyz.github.io/categories/recipes/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/recipes/seitan/</loc>
+    <loc>http://everythingelsexyz.github.io/recipes/seitan/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://everythingelsexyz.github.io/tags/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/recipes/tempeh-bacon/</loc>
+    <loc>http://everythingelsexyz.github.io/recipes/tempeh-bacon/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/the-12-week-year/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/the-12-week-year/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/the-blog-startup/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/the-blog-startup/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/the-power-of-positive-dog-training/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/the-power-of-positive-dog-training/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/the-psychology-of-money/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/the-psychology-of-money/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/the-relationship-handbook/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/the-relationship-handbook/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/the-truth/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/the-truth/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/the-willpower-instinct/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/the-willpower-instinct/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/recipes/tofu-scramble/</loc>
+    <loc>http://everythingelsexyz.github.io/recipes/tofu-scramble/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/recipes/vegan-raising-canes/</loc>
+    <loc>http://everythingelsexyz.github.io/recipes/vegan-raising-canes/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/recipes/vegan-tofu-quesadilla/</loc>
+    <loc>http://everythingelsexyz.github.io/recipes/vegan-tofu-quesadilla/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/writing/</loc>
+    <loc>http://everythingelsexyz.github.io/categories/writing/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/booknotes/your-brain-on-porn/</loc>
+    <loc>http://everythingelsexyz.github.io/booknotes/your-brain-on-porn/</loc>
   </url>
 </urlset>

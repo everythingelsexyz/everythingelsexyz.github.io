@@ -7,6 +7,8 @@ title = "About"
   publishResources = true
 
 +++
-### Everything Else
+### Welcome to Everything Else
 
-Check out what I am doing [Now](now) or see what I've been [reading](../../booknotes/_index.md).
+I'm David,
+
+Check out what I am doing [Now](../now/now.md) or see what I've been [reading](../booknotes/_index.md).

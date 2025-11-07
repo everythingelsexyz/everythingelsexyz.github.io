@@ -154,6 +154,11 @@ name = "<i class='fas fa-solid fa-circle-info'></i> About"
 url = "about/"
 weight = 9
 
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-play'></i> Now"
+url = "now/"
+weight = 11
+
 #[[menu.shortcuts]]
 #name = "<i class='fab fa-fw fa-github'></i> GitHub"
 #identifier = "ds"
@@ -180,6 +185,12 @@ name = "<i class='fab fa-fw fa-github'></i> GitHub"
 identifier = "ds"
 url = "https://github.com/everythingelsexyz"
 weight = 14
+
+[[menu.shortcuts]]
+name = "<i class='fa-solid fa-circle-notch'></i> Linux Reader"
+identifier = "Linux Reader"
+url = "https://www.linuxreader.com/"
+weight = 16
 
 #[[menu.shortcuts]]
 #name = "<i class='fab fa-fw fa-linkedin'></i> LinkedIn"

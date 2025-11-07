@@ -121,7 +121,7 @@ Caffeine is a worker bee drug. It makes you a slave and complacent. It numbs you
 
 This screws with your ability to delay gratification and makes you seek out more short term rewards to numb the pain.
 
-I go over the pain-pleasure balance in my [Dopamine Nation](../../booknotes/Dopamine%20Nation.md) summary. So I won’t re-hash it here.
+I go over the pain-pleasure balance in my [Dopamine Nation](../../everythingelse/booknotes/Dopamine%20Nation.md) summary. So I won’t re-hash it here.
 
 But the pain-pleasure balance is important to understand. Once you do. You will realize that putting anything in your body that is not food or water is making you miserable.
 

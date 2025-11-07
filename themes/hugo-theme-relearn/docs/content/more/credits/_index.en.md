@@ -36,7 +36,7 @@ Many thanks to [Andy Miller](https://github.com/rhukster) for initially creating
 - [MathJax](https://mathjax.org/) - Beautiful math and chemical formulae in all browsers
 - [Mermaid](https://mermaid-js.github.io/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [Orama](https://orama.com) - A high performance full-text and vector search engine with zero dependencies
-- [Perfect Scrollbar](https://perfectscrollbar.com) - A minimalistic but perfect custom scrollbar plugin
+- [Perfect Scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - A minimalistic but perfect custom scrollbar plugin
 - [Roboto Flex](https://github.com/googlefonts/roboto-flex) - Google's most popular font gets customizable
 - [SwaggerUI](https://github.com/swagger-api/swagger-ui) - Generate beautiful documentation from a Swagger-compliant API
 
@@ -53,12 +53,13 @@ Many thanks to [Andy Miller](https://github.com/rhukster) for initially creating
   - https://github.com/actions/checkout
   - https://github.com/actions/setup-node
   - https://github.com/Akkjon/close-milestone
-  - https://github.com/azarc-io/regex-property-action
+  - https://github.com/ashley-taylor/regex-property-action
   - https://github.com/guibranco/github-file-reader-action-v2
   - https://github.com/Kaven-Universe/github-action-current-date-time
   - https://github.com/octokit/graphql-action
   - https://github.com/peaceiris/actions-gh-pages
   - https://github.com/peaceiris/actions-hugo
+  - https://github.com/planetscale/ghcommit-action
   - https://github.com/ncipollo/release-action
   - https://github.com/surahmansada/file-regex-replace
   - https://github.com/WyriHaximus/github-action-create-milestone

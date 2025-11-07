@@ -1,13 +1,14 @@
 +++ 
-menuPre = '<i class="fa-solid fas fa-pencil"></i> '
+menuPre = '<i class="fa-solid fa-hourglass-start"></i> '
 title = "Writing" 
-weight = 1
+weight = 6
 archetype = "moc" 
 alwaysopen = false
+featured_image = "images/boot.png"
 [_build]
   render = "always"
   list = "always"
   publishResources = true
 +++
 
-{{% children containerstyle="div" style="h6" description=true %}}
+{{% children type="card" description="true" %}}
