@@ -1,5 +1,5 @@
 +++ 
-menuPre = '<i class="fa-solid fa-hourglass-start"></i> '
+menuPre = '<i class="fa-solid fa-people-roof"></i> '
 title = "Parenting" 
 weight = 4
 archetype = "moc" 

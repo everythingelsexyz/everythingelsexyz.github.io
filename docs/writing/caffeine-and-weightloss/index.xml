@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://everythingelsexyz.github.io/writing/caffeine-and-weightloss/</link>
+    <link>http://localhost:1313/writing/caffeine-and-weightloss/</link>
     <description>If caffeine caused weight loss, then 80% of americans would be skinny&#xA;Key points Caffeine ruins your sleep, which causes overeating&#xA;Caffeine raises stress hormones, causing overeating&#xA;Increase stress hormones causes sugar to release into the blood stream. This leads to insulin resistance https://www.sciencedirect.com/science/article/abs/pii/S0195666305001133?via%3Dihub https://www.adrenal.com/blog/the-dangers-of-excess-cortisol-understanding-hypercortisolism-and-its-complications Caffeine raises dopamine, causing pleasure cravings&#xA;Rebound energy and mood swings cause overeating&#xA;Lowered adrenal function degreases sex hormones, making you feel miserable, which further causes overeating&#xA;Caffeine lowers bloodflow to the pre-frontal cortex, making you impulsive and stupid.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://everythingelsexyz.github.io/writing/caffeine-and-weightloss/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/writing/caffeine-and-weightloss/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

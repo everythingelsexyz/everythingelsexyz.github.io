@@ -1,5 +1,5 @@
 +++ 
-menuPre = '<i class="fa-solid fa-hourglass-start"></i> '
+menuPre = '<i class="fa-solid fa-leaf"></i> '
 title = "Recipes" 
 weight = 5
 archetype = "moc" 

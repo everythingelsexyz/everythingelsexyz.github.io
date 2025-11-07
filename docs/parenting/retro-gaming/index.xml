@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://everythingelsexyz.github.io/parenting/retro-gaming/</link>
+    <link>http://localhost:1313/parenting/retro-gaming/</link>
     <description>Nintendo switch Switch to new Micro SD https://en-americas-support.nintendo.com/app/answers/detail/a_id/27595/~/how-to-transfer-data-between-microsd-cards-for-use-on-nintendo-switch&#xA;Roms https://r-roms.github.io/&#xA;Bios files https://archive.org/download/knulli-bios-set&#xA;to do nds sega master system sega mega drive neo geo&#xA;Games to play: Survival kids (GBC)&#xA;Pico 8 8 legs to love &lt; kalikan one room dungeon&#xA;birds with guns tower of archeos coffee maker just one boss dank tomb lil satans mai chans sweet bunscake quest mimic curse of the lich king &lt; chrysopoeia gar’s den the lair pico man pico fox delunky demon castle froggi bubble trouble celeste &lt; the lost knight &lt; trial of the sorcerer &lt; high stakes golf sunday &lt; cab ride alpine alpaca combo pool &lt; porklike wizards rule</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://everythingelsexyz.github.io/parenting/retro-gaming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/parenting/retro-gaming/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
