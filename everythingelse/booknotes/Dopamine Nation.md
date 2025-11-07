@@ -1,9 +1,10 @@
----
-title: Dopamine Nation (9/10)
-draft: false
-date: 2024-05-11
-weight: 1
----
++++
+title = 'Dopamine Nation (9/10)'
+description = 'Anything You Want book Summary'
+featured_image = "../images/dopaminenation.png"
+date = "2024-05-11"
++++
+
 
 ![Dopamine Nation](https://m.media-amazon.com/images/I/91lcJzqYNtL._SL1500_.jpg?classes=inline&height=175px)
 
