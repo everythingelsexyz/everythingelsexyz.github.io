@@ -3,6 +3,7 @@ type = " "
 categories = ["Health"] 
 description = "My Journey With Addiction" 
 title = "My Journey With Addiction" 
+draft = true
 +++
 
 In 2010, I was facing felony charges for distribution of drugs. I was a drug addict. Hook line and sinker. But never admitted that to myself. My drug of choice? Anything I could get my hands on. Cocaine, ecstasy, weed, Xanax, Oxycontin, ciggys, alcohol, ativan, seroquil, spice, mushrooms.. You name it. 

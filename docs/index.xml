@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Everything Else</title>
-    <link>http://everythingelsexyz.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Contact me or see what this site is all about&#xA;Book Notes&#xD;Fitness&#xD;Health&#xD;Parenting&#xD;Recipes&#xD;Writing</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://everythingelsexyz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book Notes</title>
-      <link>http://everythingelsexyz.github.io/booknotes/</link>
+      <link>http://localhost:1313/booknotes/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://everythingelsexyz.github.io/booknotes/</guid>
-      <description>Dopamine Nation (9/10)&#xD;Bliss of the Celibate (4/10)&#xD;123 Magic (4/10)&#xD;Anything You Want (8/10)&#xD;Book Graveyard&#xD;Built to Move (9/10)&#xD;Caffeine Blues (9/10)&#xD;Good Inside (9/10)&#xD;Master Reading List&#xD;Meditations (9/10)&#xD;Million Dollar Weekend(8/10)&#xD;Nonviolent Communication (8/10)&#xD;The 12 Week Year (8/10)&#xD;The Blog Startup (8/10)&#xD;The Power of Positive Dog Training (9/10)&#xD;The Psychology of Money (9/10)&#xD;The Relationship Handbook (10/10)&#xD;The Truth (7/10)&#xD;The Willpower Instinct (9/10)&#xD;Your Brain on Porn (9/10)&#xD;These are the summaries and notes of books I have read. These notes are the result of wanting to further process books and retain information. After years of reading books one time and then forgetting most of them.</description>
+      <guid>http://localhost:1313/booknotes/</guid>
+      <description>Dopamine Nation (9/10)&#xD;Bliss of the Celibate (4/10)&#xD;123 Magic&#xD;Anything You Want (8/10)&#xD;Book Graveyard&#xD;Built to Move (9/10)&#xD;Caffeine Blues (9/10)&#xD;Good Inside (9/10)&#xD;Master Reading List&#xD;Meditations (9/10)&#xD;Million Dollar Weekend(8/10)&#xD;Nonviolent Communication (8/10)&#xD;The 12 Week Year (8/10)&#xD;The Blog Startup (8/10)&#xD;The Power of Positive Dog Training (9/10)&#xD;The Psychology of Money (9/10)&#xD;The Relationship Handbook (10/10)&#xD;The Truth (7/10)&#xD;The Willpower Instinct (9/10)&#xD;Your Brain on Porn (9/10)&#xD;These are the summaries and notes of books I have read. These notes are the result of wanting to further process books and retain information. After years of reading books one time and then forgetting most of them.</description>
     </item>
     <item>
       <title>Fitness</title>
-      <link>http://everythingelsexyz.github.io/fitness/</link>
+      <link>http://localhost:1313/fitness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://everythingelsexyz.github.io/fitness/</guid>
+      <guid>http://localhost:1313/fitness/</guid>
       <description></description>
     </item>
     <item>
       <title>Health</title>
-      <link>http://everythingelsexyz.github.io/health/</link>
+      <link>http://localhost:1313/health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://everythingelsexyz.github.io/health/</guid>
+      <guid>http://localhost:1313/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Parenting</title>
-      <link>http://everythingelsexyz.github.io/parenting/</link>
+      <link>http://localhost:1313/parenting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://everythingelsexyz.github.io/parenting/</guid>
+      <guid>http://localhost:1313/parenting/</guid>
       <description></description>
     </item>
     <item>
       <title>Recipes</title>
-      <link>http://everythingelsexyz.github.io/recipes/</link>
+      <link>http://localhost:1313/recipes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://everythingelsexyz.github.io/recipes/</guid>
+      <guid>http://localhost:1313/recipes/</guid>
       <description>Creamy Jalepeno Sauce&#xD;Easy Mango Salsa Quinoa Bowl&#xD;Marry Me Tofu&#xD;Seitan&#xD;Tempeh Bacon&#xD;Tofu scramble&#xD;Vegan raising canes&#xD;Vegan Tofu Quesadilla</description>
     </item>
     <item>
       <title>Writing</title>
-      <link>http://everythingelsexyz.github.io/writing/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://everythingelsexyz.github.io/writing/</guid>
+      <link>http://localhost:1313/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/</guid>
       <description>19 Biggest Lessons From Reading 100 Books&#xD;4 Ways to Quit caffeine&#xD;7 Steps to Get Back on a NoFap Streak Immediately&#xD;Caffeine is Destroying You&#xD;My Journey With Addiction&#xD;Nat Eliason’s SEO course</description>
     </item>
   </channel>
