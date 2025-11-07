@@ -1,5 +1,5 @@
 +++
-title = '123 Magic (4/10)
+title = '123 Magic (4/10)'
 description = '123 Magic Book Summary'
 featured_image = "images/123magic.png"
 +++
