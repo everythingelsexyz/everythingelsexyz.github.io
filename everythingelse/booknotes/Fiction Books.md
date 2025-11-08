@@ -33,12 +33,13 @@ Chilling exploration of post-war Japan and the effect of westernization on cultu
 
 ![The Temple of the Golden Pavilion](https://m.media-amazon.com/images/I/61jTljcQBiL._SL1188_.jpg?classes=inline&height=175px)
 
-![1Q84](https://m.media-amazon.com/images/I/51ZxXOkzyAL._SL1200_.jpg?classes=inline&height=175px)
-(8/10)
-Love story about a writer and an assassin figuring out the mystery of two moons and little people climbing out of people's mouths. Huge book but flew through it. Murakami is a great writer. 
-
 (8/10)
 Interesting story about an evil monk obsessed with beauty. 
+
+![1Q84](https://m.media-amazon.com/images/I/51ZxXOkzyAL._SL1200_.jpg?classes=inline&height=175px)
+
+(8/10)
+Love story about a writer and an assassin figuring out the mystery of two moons and little people climbing out of people's mouths. Huge book but flew through it. Murakami is a great writer. 
 
 ![Siddhartha](https://m.media-amazon.com/images/I/81RnEWkU+OL._SL1500_.jpg?classes=inline&height=175px)
 
