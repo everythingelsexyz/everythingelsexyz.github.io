@@ -14,6 +14,7 @@
 -  [[everythingelse/booknotes/Meditations|Meditations]]
 -  [[everythingelse/booknotes/Million Dollar Weekend|Million Dollar Weekend]]
 -  [[everythingelse/booknotes/Nonviolent Communication|Nonviolent Communication]]
+-  [[everythingelse/booknotes/oldindex|oldindex]]
 -  [[everythingelse/booknotes/Playful Parenting|Playful Parenting]]
 -  [[everythingelse/booknotes/The 12 Week Year|The 12 Week Year]]
 -  [[everythingelse/booknotes/The Blog Startup|The Blog Startup]]
