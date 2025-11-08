@@ -1,6 +1,7 @@
 +++
-title = 'The Blog Startup (8/10)'
-description = 'The Blog Startup'
+title = 'The Blog Startup'
+description = '8/10'
+weight = 3
 featured_image = "../images/blogstartup.png"
 +++
 

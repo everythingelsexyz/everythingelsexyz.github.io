@@ -1,7 +1,8 @@
 +++
-title = 'The Power of Positive Dog Training (9/10)'
-description = 'The Power of Positive Dog Training'
+title = 'The Power of Positive Dog Training'
+description = '9/10'
 featured_image = "../images/positivedogtraining.png"
+weight = 2
 +++
 
 ![The Power of Positive Dog Training](https://m.media-amazon.com/images/I/61fUL8I9owL._SL1500_.jpg?classes=inline&height=175px)

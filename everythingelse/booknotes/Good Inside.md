@@ -1,6 +1,7 @@
 +++
-title = 'Good Inside (9/10)'
-description = 'Good Inside'
+title = 'Good Inside'
+description = '9/10'
+weight = 2
 featured_image = "../images/goodinside.png"
 +++
 

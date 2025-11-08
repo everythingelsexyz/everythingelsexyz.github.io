@@ -1,7 +1,8 @@
 +++
-title = 'Bliss of the Celibate (4/10)'
-description = 'Test Description'
+title = 'Bliss of the Celibate'
+description = '4/10'
 featured_image = "../images/blissofthecelibate.png"
+weight = 7
 +++
 
 ![Bliss of the Celibate](/images/blissofthecelibate.png)

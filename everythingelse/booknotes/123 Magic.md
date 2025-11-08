@@ -1,6 +1,7 @@
 +++
-title = '123 Magic (4/10)'
-description = '123 Magic Book Summary'
+title = '123 Magic'
+description = '4/10 '
+weight = 7
 featured_image = "../images/123magic.png"
 +++
 

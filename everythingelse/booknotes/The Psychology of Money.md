@@ -1,7 +1,8 @@
 +++
-title = 'The Psychology of Money (9/10)'
-description = 'The Psychology of Money'
+title = 'The Psychology of Money'
+description = '9/10'
 featured_image = "../images/psychologyofmoney.png"
+weight = 2
 +++
 
 ![The Psychology of Money](https://m.media-amazon.com/images/I/71aG0m9XRcL._SL1500_.jpg?classes=inline&height=175px)

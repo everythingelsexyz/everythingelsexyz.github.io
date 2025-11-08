@@ -1,7 +1,8 @@
 +++
-title = 'Caffeine Blues (9/10)'
-description = 'Caffeine Blues (9/10)'
+title = 'Caffeine Blues'
+description = '9/10'
 featured_image = "../images/caffeineblues.png"
+weight = 2
 +++
 
 ![Caffeine Blues](https://m.media-amazon.com/images/I/81esD9K1FcL._SL1500_.jpg?classes=inline&height=175px)

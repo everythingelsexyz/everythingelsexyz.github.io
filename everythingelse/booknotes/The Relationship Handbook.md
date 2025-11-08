@@ -1,7 +1,8 @@
 +++
-title = 'The Relationship Handbook (10/10)'
-description = 'The Relationship Handbook'
+title = 'The Relationship Handbook'
+description = '10/10'
 featured_image = "../images/relationshiphandbook.png"
+weight = 2
 +++
 
 ## Summary and Highlights

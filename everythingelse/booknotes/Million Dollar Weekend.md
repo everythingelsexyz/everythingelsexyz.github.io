@@ -1,7 +1,8 @@
 +++
-title = 'Million Dollar Weekend(8/10)'
-description = 'Million Dollar Weekend'
+title = 'Million Dollar Weekend'
+description = '8/10'
 featured_image = "../images/milliondollarweekend.png"
+weight = 3
 +++
 
 ![Million Dollar Weekend](https://m.media-amazon.com/images/I/711Oi-AKX1L._SL1500_.jpg?classes=inline&height=175px)

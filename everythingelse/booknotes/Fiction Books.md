@@ -1,3 +1,9 @@
++++
+title = 'Fiction Books'
+description = 'Short Fiction Reviews and Ratings'
+featured_image = "../images/fictionbooks.png"
+weight = 1
++++
 Separate page to keep track of Fiction books. Exploring the idea of "Transformative Literature" so I only recently started reading more fiction. 
 
 ![All Quiet on the Western Front](https://m.media-amazon.com/images/I/61BVrS7+pxL._SL1499_.jpg?classes=inline&height=175px)

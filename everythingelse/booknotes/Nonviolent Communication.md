@@ -1,7 +1,8 @@
 +++
-title = 'Nonviolent Communication (8/10)'
-description = 'Nonviolent Communication'
+title = 'Nonviolent Communication'
+description = '8/10'
 featured_image = "../images/nonviolentcommunication.png"
+weight = 3
 +++
 
 ![Nonviolent Communication](https://m.media-amazon.com/images/I/6188ojOs2tS._SL1000_.jpg?classes=inline&height=175px)

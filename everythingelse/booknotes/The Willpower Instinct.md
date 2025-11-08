@@ -1,7 +1,8 @@
 +++
-title = 'The Willpower Instinct (9/10)'
-description = 'The Willpower Instinct'
+title = 'The Willpower Instinct'
+description = '9/10'
 featured_image = "../images/willpowerinstinct.png"
+weight = 2
 +++
 
 ![Meditations](https://m.media-amazon.com/images/I/71tvkO9Db4L._SL1500_.jpg?classes=inline&height=175px)

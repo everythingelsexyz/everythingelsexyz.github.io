@@ -1,7 +1,8 @@
 +++
-title = 'Meditations (9/10)'
-description = 'Meditations'
+title = 'Meditations'
+description = '9/10'
 featured_image = "../images/meditations.png"
+weight = 2
 +++
 
 ![Meditations](https://m.media-amazon.com/images/I/512B-9yFgAL._SL1200_.jpg?classes=inline&height=175px)

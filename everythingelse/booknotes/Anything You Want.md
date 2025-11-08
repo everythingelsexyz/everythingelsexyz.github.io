@@ -1,7 +1,8 @@
 +++
-title = 'Anything You Want (8/10)'
-description = 'Anything You Want book Summary'
+title = 'Anything You Want'
+description = '8/10'
 featured_image = "../images/anythingyouwant.png"
+weight = 3
 +++
 
 ![Anything You Want](https://f.media-amazon.com/images/I/61P+7owVcML._SY425_.jpg?classes=inline&height=175px)

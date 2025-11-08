@@ -1,7 +1,8 @@
 +++
-title = 'Dopamine Nation (9/10)'
-description = 'Anything You Want book Summary'
+title = 'Dopamine Nation'
+description = '9/10'
 featured_image = "../images/dopaminenation.png"
+weight = 3
 date = "2024-05-11"
 +++
 
