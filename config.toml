@@ -186,11 +186,11 @@ identifier = "ds"
 url = "https://github.com/everythingelsexyz"
 weight = 14
 
-[[menu.shortcuts]]
-name = "<i class='fa-solid fa-circle-notch'></i> Linux Reader"
-identifier = "Linux Reader"
-url = "https://www.linuxreader.com/"
-weight = 16
+#[[menu.shortcuts]]
+#name = "<i class='fa-solid fa-circle-notch'></i> Linux Reader"
+#identifier = "Linux Reader"
+#url = "https://www.linuxreader.com/"
+#weight = 16
 
 #[[menu.shortcuts]]
 #name = "<i class='fab fa-fw fa-linkedin'></i> LinkedIn"
@@ -211,4 +211,9 @@ weight = 16
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[params.plausible]
+  enable = true  # Whether to enable plausible tracking
+  domain = "everythingelsexyz.github.io"  # Plausible "domain" name/id in your dashboard
+  selfhosted_domain = "analytics.linuxreader.com:8443"
 

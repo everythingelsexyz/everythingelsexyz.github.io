@@ -41,6 +41,11 @@ Interesting story about an evil monk obsessed with beauty.
 (8/10)
 Love story about a writer and an assassin figuring out the mystery of two moons and little people climbing out of people's mouths. Huge book but flew through it. Murakami is a great writer. 
 
+![The Stranger](https://m.media-amazon.com/images/I/617WkdpG8xL._SL1200_.jpg?classes=inline&height=175px)
+
+(8/10)
+About a guy who is indifferent to things that a lot of people care about. This indifference makes him seem like a monster to other people. But is he actually? Great great. Will read again. 
+
 ![Siddhartha](https://m.media-amazon.com/images/I/81RnEWkU+OL._SL1500_.jpg?classes=inline&height=175px)
 
 (8/10)
@@ -50,3 +55,9 @@ Great intro to Eastern Philosophy. Quick read. Everyone should read this.
 
 (8/10)
 Quick read. Grapples with the concept of dying and thinking about the things that you thought were important, but really weren't. Easy to read and great writing. 
+
+
+![The Old Man and the Sea](https://m.media-amazon.com/images/I/71+rqbp57dL._SL1500_.jpg?classes=inline&height=175px)
+
+(4/10)
+Wasn't a fan of this one. Fishing and baseball are just two topics I am not interested in. Gets points for style and also making me care enough to be mad about the ending. 

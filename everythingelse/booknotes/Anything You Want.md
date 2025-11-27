@@ -49,8 +49,6 @@ Are you helping people?
 
 Are they happy?
 
-Are you happy?
-
 Are you profitable?
 
 Isn’t that enough?
