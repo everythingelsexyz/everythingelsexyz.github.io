@@ -105,7 +105,7 @@ What did they do and not do well?
 
 #### Principle 3: Provide a complete answer
 Figure out everything somebody could be looking for when they ask the question.
-Good SEO content is usually long because of this. (GOal is not to be long, it's to fully answer the question)
+Good SEO content is usually long because of this. (Goal is not to be long, it's to fully answer the question)
 
 #### Principle 4: Make it actionable
 Are they going to need to go back to google for more answers?

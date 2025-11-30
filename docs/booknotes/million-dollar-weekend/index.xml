@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Million Dollar Weekend :: Everything Else</title>
-    <link>http://everythingelsexyz.github.io/booknotes/million-dollar-weekend/</link>
+    <link>https://everythingelsexyz.github.io/booknotes/million-dollar-weekend/</link>
     <description>8/10</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://everythingelsexyz.github.io/booknotes/million-dollar-weekend/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://everythingelsexyz.github.io/booknotes/million-dollar-weekend/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

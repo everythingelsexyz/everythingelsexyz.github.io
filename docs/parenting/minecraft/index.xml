@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://everythingelsexyz.github.io/parenting/minecraft/</link>
+    <link>https://everythingelsexyz.github.io/parenting/minecraft/</link>
     <description>minecraft diamonds crawl mining -57 or -53 (-53 avoids lava)&#xA;16 for iron or 255&#xA;iron veins -8 to -59 keep an eye out for these blocks Batch 1 underground iron: Y 15 - caving then 2x1 stripmining Batch 2 mountain iron: Y232 - 1x1 stripmining Batch 3 iron tuff veins: Y -8 to -59 (RARE so just keep an eye on it while caving)</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://everythingelsexyz.github.io/parenting/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://everythingelsexyz.github.io/parenting/minecraft/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

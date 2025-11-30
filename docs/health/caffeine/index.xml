@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://everythingelsexyz.github.io/health/caffeine/</link>
+    <link>https://everythingelsexyz.github.io/health/caffeine/</link>
     <description>When your brain detects caffeine, it signals your body to release ACTH. This signals your adrenal glands to produce stress hormones. This is the beginning of a stress response that effects every area of our body. As you will see, the cumulative effects of chronic caffeine use can lead to serious damage.&#xA;When you go into the stress response, or fight-or-flight mode, blood flow in the brain is transferred from the higher centers of your brain (the prefrontal cortex) to the “lower” brain (the amygdala).</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://everythingelsexyz.github.io/health/caffeine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://everythingelsexyz.github.io/health/caffeine/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

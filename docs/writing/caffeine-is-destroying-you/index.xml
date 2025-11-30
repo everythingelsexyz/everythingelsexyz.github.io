@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caffeine is Destroying You :: Everything Else</title>
-    <link>http://everythingelsexyz.github.io/writing/caffeine-is-destroying-you/</link>
+    <link>https://everythingelsexyz.github.io/writing/caffeine-is-destroying-you/</link>
     <description>Caffeine is Destroying You</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://everythingelsexyz.github.io/writing/caffeine-is-destroying-you/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://everythingelsexyz.github.io/writing/caffeine-is-destroying-you/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
